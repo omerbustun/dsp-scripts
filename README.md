@@ -1,2 +1,2 @@
 # Digital Signal Processing Scripts
-Our solutions to digital signal processing problems from our lecture.
+MATLAB solutions of Digital Signal Processing questions from my our lecture.
